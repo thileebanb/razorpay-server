@@ -1,0 +1,10 @@
+{
+  "name": "razorpay-server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "razorpay": "^2.8.0"
+  }
+}
